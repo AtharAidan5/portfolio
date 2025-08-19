@@ -8,14 +8,14 @@ export const HeroSection = () => {
                 <div className="flex flex-wrap xl:w-10/12 xl:mx-auto">
                     <div className="w-full self-center lg:items-center lg:justify-center lg:w-1/2">
                         <h1 className="text-base font-medium md:text-xl mb-3">
-                            <span className="block text-3xl">Hello World, I'm</span>
+                            <span className="block text-3xl">Hello World, I am</span>
                             <span className="font-bold text-3xl mb-5 max-w-md lg:text-4xl">Syafi Athar Aidan</span>
                         </h1>
                         <h2 className="font-medium text-lg mb-5 lg:text-2xl text-[#000000]">
                             Student | Intern | Software Engineer
                         </h2>
                         <p className="font-medium mb-10 leading-relaxed text-justify max-w-xl">I build responsive,
-                            high‑performance
+                            high performance
                             web interfaces using HTML, CSS, and JavaScript. Crafting intuitive user experiences that
                             delight
                             and convert.</p>

@@ -10,9 +10,9 @@ export const AboutSection = () => {
                             developer
                             specializing in Tailwind CSS & Next JS from Depok, Indonesia. I love bringing clean,
                             accessible
-                            interfaces to life, crafting performance‑optimized code that feels smooth on any device. I
+                            interfaces to life, crafting performance optimized code that feels smooth on any device. I
                             enjoy
-                            learning new animation libraries and exploring the “why” behind good UX design.</p>
+                            learning new animation libraries and exploring the why behind good UX design.</p>
                     </div>
                     <div className="w-full">
                         <h2 className="font-bold text-3xl mb-5 text-[#404040]">Let's get to know with each other more</h2>
