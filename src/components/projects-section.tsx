@@ -9,7 +9,7 @@ export const ProjectsSection = () => {
                 <div className="w-full">
                     <div className="max-w-xl mx-auto text-center">
                         <h2 className="font-bold text-3xl mb-4 sm:text-4xl lg:text-5xl">Projects</h2>
-                        <p className="font-medium text-md mb-4 md:text-lg">This are all my projects I've done so far throughout
+                        <p className="font-medium text-md mb-4 md:text-lg">This are all my projects I have done so far throughout
                             the years</p>
                     </div>
                 </div>
