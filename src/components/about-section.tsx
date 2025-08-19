@@ -15,7 +15,7 @@ export const AboutSection = () => {
                             learning new animation libraries and exploring the why behind good UX design.</p>
                     </div>
                     <div className="w-full">
-                        <h2 className="font-bold text-3xl mb-5 text-[#404040]">Let's get to know with each other more</h2>
+                        <h2 className="font-bold text-3xl mb-5 text-[#404040]">Let&apos;s get to know with each other more</h2>
                         <div className="flex">
                             <a href="https://www.instagram.com/atharaidann" target="_blank"
                                 className="mr-4 w-9 h-9 rounded-full flex items-center justify-center hover:scale-110 transition-all hover:bg-[#404040] hover:text-white">
